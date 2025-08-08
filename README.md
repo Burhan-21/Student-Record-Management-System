@@ -1,4 +1,4 @@
-# Java Student Record Management System
+# Student Record Management System
 
 Welcome! This is a **console-based student record management system** written in Java 17, built for the Elevate Labs Java Developer Internship Task 2. The project helped me practice working with classes, collections, loops, and encapsulation while implementing CRUD operations and modern Java features.
 
@@ -130,4 +130,3 @@ Exiting... Goodbye!
 
 This code is a learning project. Do anything you want with it.
 
-**Made with ❤️ for Elevate Labs, August 2025.**
